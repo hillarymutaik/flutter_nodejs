@@ -18,3 +18,7 @@ class MyApp extends StatelessWidget {
   }
 }
 //mongodb://localhost:27017
+// "scripts": {
+//   "test": "echo \"Error: no test specified\" && exit 1",
+//   "start": "nodemon app.js"
+// },

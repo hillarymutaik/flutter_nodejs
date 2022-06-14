@@ -1,6 +1,6 @@
 //local database connection
 const mongoose = require("mongoose");
-const dbConnection = "mongodb://127.0.0.1:27017/flutter_todoapp";
+const dbConnection = "mongodb://localhost:27017/food";
 
 mongoose
   .connect(dbConnection, {
